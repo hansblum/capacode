@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "capacode"
   annotations:
-    backstage.io/techdocs-ref:docs
+    backstage.io/techdocs-ref: dir:docs
 spec:
   type: website
   lifecycle: production
