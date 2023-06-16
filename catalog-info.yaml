@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "capacode"
-    links:
+  links:
     - url: https://dashboard.example.com
       title: My Dashboard
       icon: dashboard
