@@ -8,7 +8,9 @@ Lorum ipsum lorum ipsum.
 
 - Love me do
 - Please Please me
-- Can´t find me love
+- Can´t bye me love
+- Hard day's night
+- Paperback writer
 - ...
 - Let it Be
 - The Long and Winding Road
